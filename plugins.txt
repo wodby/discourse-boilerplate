@@ -1,0 +1,5 @@
+# Discourse plugins to add, one Git repository URL per line, optionally
+# followed by a branch or tag. For example:
+#
+# https://github.com/discourse/discourse-bbcode.git
+# https://github.com/example/discourse-my-plugin.git v1.2.0
